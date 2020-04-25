@@ -13,3 +13,14 @@ Read more about Gatsby Recipes:
 - [Gatsby blog](https://www.gatsbyjs.org/blog/2020-04-15-announcing-gatsby-recipes/)
 - [Recipes doc](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-recipes/README.md)
 - [Umbrella issue](https://github.com/gatsbyjs/gatsby/issues/22991)
+
+## Collection
+
+⚠ GitHub doesn't support MDX previews, click on the "Raw" button to see what's inside.
+
+- 🎨 Theme UI (preferred config)
+
+   `gatsby recipes https://git.io/JftIj`
+
+
+
