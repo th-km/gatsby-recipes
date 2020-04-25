@@ -5,7 +5,7 @@
 ## Getting started
 
 1. Upgrade gatsby-cli to the latest version `npm install -g gatsby-cli@latest`
-2. Install Gatsby `npm install gatsby@latest`
+2. Install Gatsby `npm install gatsby@latest` or run `gatsby new`
 3. Run `gatsby recipes <url>`
 
 Read more about Gatsby Recipes:
@@ -18,9 +18,7 @@ Read more about Gatsby Recipes:
 
 ⚠ GitHub doesn't support MDX previews, click on the "Raw" button to see what's inside.
 
-- 🎨 Theme UI (preferred config)
-
-   `gatsby recipes https://git.io/JftIj`
+- 🎨 Theme UI (preferred config) `gatsby recipes https://git.io/JftIj`
 
 
 
