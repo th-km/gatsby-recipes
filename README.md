@@ -16,9 +16,10 @@ Read more about Gatsby Recipes:
 
 ## Collection
 
-⚠ GitHub doesn't support MDX previews, click on the "Raw" button to see what's inside.
+Note: GitHub doesn't support MDX previews, click on the "Raw" button to see what's inside.
 
 - 🎨 Theme UI (preferred config) `gatsby recipes https://git.io/JftIj`
+- ✏ Sanity `gatsby recipes https://git.io/Jf1ZF`
 
 
 
